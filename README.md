@@ -1,4 +1,8 @@
-<h3 align="left">Hi ! I'm a dedicated game developer and software enthusiast with a passion for bringing ideas to life. Skilled in Pygame, I’ve created unique spins on classic games like Flappy Corn, Znake, and Minecraft Pong, while currently advancing my skills in Unity for immersive 3D experiences. With a solid foundation in HTML, CSS, and programming languages such as C, C++, Python, Java, and MySQL, I build both interactive applications and impactful visuals. I've contributed to renowned publications like Pixel 23, Pixel 24, Reflex 24, and Spectrum 24, merging creativity with technical expertise. My journey has included competitive events, like the IIT Dhanbad hackathon, where I continue to embrace challenges and innovate through design and code.</h3>
+<h3 align="left">I’m a game developer and software enthusiast who turns lines of code into realms of possibility! 🎮✨ Skilled in Pygame, I’ve reimagined classics with a creative twist—flapping over Pringles in Flappy Corn, building a zombie horde in Znake, and pixel-smashing in Minecraft Pong. Now, I’m leveling up my Unity skills to craft immersive 3D worlds. 🚀🕶️
+
+Beyond games, I code with a full stack of skills—C, C++, Python, Java, MySQL, HTML, and CSS—developing interactive applications and seamless user experiences. 💻🔧 My passion for design meets development in publications like Pixel 23, Pixel 24, Reflex 24, and Spectrum 24, where I merge creativity with technical precision. 🎨📖
+
+A firm believer that innovation is the ultimate power-up, I thrive in competitive environments, having showcased my skills at hackathons like IIT Dhanbad. 🏆⚡ Whether crafting games, designing intuitive interfaces, or tackling new challenges, I’m always ready to press start on the next big idea! 🎯🚀</h3>
 
 ###
 
