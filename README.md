@@ -5,11 +5,11 @@ Beyond games, I code with a full stack of skills—C, C++, Python, Java, MySQL, 
 A firm believer that innovation is the ultimate power-up, I thrive in competitive environments, having showcased my skills at hackathons like IIT Dhanbad. 🏆⚡ Whether crafting games, designing intuitive interfaces, or tackling new challenges, I’m always ready to press start on the next big idea! 🎯🚀</h3>
 
 ###
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=corny775" alt="GitHub Streak" /></a>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=corny775&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=corny775&theme=kanagawa-paper" alt="GitHub Streak" /></a>
   <img src="https://github-profile-trophy.vercel.app/?username=corny775&theme=chalk"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corny775&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="http://localhost:9000/api/top-langs?username=yourname&layout=compact&langs_count=6" alt="languages graph"  />
 </div>
 
 ###
