@@ -8,7 +8,6 @@ A firm believer that innovation is the ultimate power-up, I thrive in competitiv
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=corny775&theme=kanagawa-paper" alt="GitHub Streak" /></a>
-  <img src="https://github-profile-trophy.vercel.app/?username=corny775&theme=chalk"  />
   <img src="http://localhost:9000/api/top-langs?username=yourname&layout=compact&langs_count=6" alt="languages graph"  />
 </div>
 
